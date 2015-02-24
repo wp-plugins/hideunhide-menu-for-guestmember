@@ -3,7 +3,7 @@ Contributors: KakiNetwork
 Donate link: https://www.facebook.com/FreddieAziz
 Tags: menu,hide,unhide,member,guest,logged
 Requires at least: 3.8.1
-Tested up to: 3.8.1
+Tested up to: 4.1.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 
@@ -42,7 +42,7 @@ If you had a trouble in updating this plugin, try deactive old version and delet
 
 = How to ask other question? =
 
-* Email me at `hai@kakinetwork.com`
+* Email me at `freddie[at]kakinetwork[dot]com`
 
 == Screenshots ==
 
@@ -50,6 +50,9 @@ If you had a trouble in updating this plugin, try deactive old version and delet
 2. To setup CSS Classess
 
 == Changelog ==
+
+= 1.0.2 - 24 February 2014 =
+* New : Tested up to wordpress 4.1.1
 
 = 1.0.1 - 4 January 2014 =
 * New : First release.
