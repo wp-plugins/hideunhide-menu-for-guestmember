@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: menu,hide,unhide,member,guest,logged
 Requires at least: 3.8.1
 Tested up to: 4.1.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 
 Hide/Unhide Menu for Guest/Member is a simple plugin that you can easily manage to hide or unhide menu for guest and member via css.
