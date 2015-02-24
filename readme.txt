@@ -1,6 +1,6 @@
 === Hide/Unhide Menu for Guest/Member ===
 Contributors: KakiNetwork
-Donate link: https://www.facebook.com/FreddieAziz
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WYV2ZRAAAD77Q
 Tags: menu,hide,unhide,member,guest,logged
 Requires at least: 3.8.1
 Tested up to: 4.1.1
